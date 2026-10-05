@@ -94,7 +94,7 @@ def get_data_tables():
 def home():
     return {
         "message": "Welcome to the Skin Clinic Campaign API!",
-        "endpoints": ["/docs", "/health", "/skin-clinic-campaign-breakdown"],
+        "endpoints": ["/docs", "/health", "/campaign-analysis"],
     }
 
 
